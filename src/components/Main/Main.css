@@ -745,3 +745,145 @@ color: maroon;
 
 
 }
+
+@media screen and (min-width:1024px) {
+    .toma{
+        display: flex;
+        position: absolute;
+        left: 250px;
+        text-transform: uppercase;
+        padding: 30px;
+        font-size: 5rem;
+        width:67%;
+        
+    }
+    .photograpy{
+        position: absolute;
+        top: 10px;
+        left: 20px;
+        color:white;
+    }   
+    .fotoco{
+        position: absolute;
+        left: 700px;
+        top:700px;
+        width: 330px;
+        height: 450px;
+       }     
+    .aurora{
+        width: 250px;
+        height: 220px;
+    }
+    .montaña{
+        width: 250px;
+        height: 220px;
+        
+    }
+    .naranja{
+        width: 250px;
+        height: 220px;
+    }
+    .flecha{
+        width: 90px;
+    }
+    
+    .parrafito{
+        
+        position: absolute;
+        left:455px;
+        top: 1690px;
+    
+    }
+    
+    .parrafitos{
+    
+        position: absolute;
+        left:747px;
+        top:1690px;
+    }
+
+
+    .casa{
+        width: 480px;
+        height: 400px;
+    
+    }
+    .centro{
+        width: 550px;
+        height: 300;
+    }
+    
+    .vide{
+        display: flex;
+        justify-content: space-around;
+    }
+    .play3d{
+        position: absolute;
+        top: 2250px;
+        left: 900px;
+    }
+    .played{
+        position: absolute;
+        left:300px;
+        top:2250px;
+    }
+    
+    
+    .maxi1{
+        
+        position: absolute;
+        left:353px;
+        top:1140px;
+        font-size: 1.5rem;
+       
+    }
+    .oslo1{
+        position:absolute;
+        left:692px;
+        top:2320px;
+        
+    }
+    .yes{
+        padding-top: 100px;
+        width: 40%;
+        
+    }
+
+    .ah{
+        width: 30%;
+    }
+   
+    .ohi,.oho,.oh{
+        width: 90%;
+    }
+    
+    .award1{
+        display: flex;
+        justify-content: space-evenly;
+        
+    }
+    .award{
+        width: 100%;
+       
+    }
+    
+    .personas2{
+        
+        width: 200px;
+        height: 220px;
+    }
+    .textos1{
+        padding: 0;
+        padding-right: 10px;
+        padding-top: 7rem;
+        width: 40%;
+        font-size: 15px;
+    }
+    .redes{
+        padding-left: 15px;
+    }
+
+
+    /* Estilos para pantallas de hasta 768px de ancho */
+  }
+    
