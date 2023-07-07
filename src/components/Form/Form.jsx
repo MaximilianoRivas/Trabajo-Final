@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import emailjs from "emailjs-com";
 import './Form.css'
 
-//npm i emailjs-com
+
 
 function Form() {
   const [nombre, setNombre] = useState('');
