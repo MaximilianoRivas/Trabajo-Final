@@ -18,7 +18,7 @@
    .eros{
     display: flex;
     position: absolute;
-    top: 40rem; 
+    top: 25rem; 
     padding-left:170px;
     font-size: 2rem;
     color: white;
@@ -32,7 +32,7 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 30px;
     position: absolute;
-    left: 10px;
+    left: 140px;
    }
 
    .toma{
@@ -456,21 +456,31 @@ input{
 @media screen and  (min-width: 768px) and (max-width: 1023px) {
   
   .toma{
-    
+   
         display: flex;
         text-transform: uppercase;
+        position: absolute;
+        top: 140px;
         padding: 20px;
         font-size: 4rem;
         width:70%;
+        color: black;
         
+  }
+  .photograpy{
+    position: absolute;
+    top: 150px;
+    left: 1px;
+    color: black;
 
   }
+
 .fotoco{
     display: flex;
     position: absolute;
-    top: 980px;
+    top: 940px;
     left: 443px;
-    width: 300px;
+    width: 320px;
     height: 500px;
 }
 .bestwork{
@@ -588,6 +598,9 @@ input{
 }
 
 @media  screen  and (max-width: 767px){
+
+
+
    .fotoco{
     position: absolute;
     left: 440px;
@@ -605,6 +618,26 @@ input{
         font-size: 5rem;
         width:60%;
    }
+   .toma{
+   
+    display: flex;
+    text-transform: uppercase;
+    position: absolute;
+    top: 190px;
+    padding: 20px;
+    font-size: 4rem;
+    width:70%;
+    color:maroon;
+    
+}
+.photograpy{
+position: absolute;
+top: 190px;
+left: 12px;
+color: maroon;
+
+}
+
 
     .aurora{
         width: 180px;
