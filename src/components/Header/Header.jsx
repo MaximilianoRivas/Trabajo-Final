@@ -9,7 +9,7 @@ function Header() {
         <div className="inicio">
           <img className="perfil" src="public/fotodeperfil.jpg" />
           <a className="yi" href="#">
-            Photographer portfolio website. Study project.
+          Sitio web de la cartera del fotógrafo. Proyecto de estudio.
           </a>
         </div>
 
@@ -28,7 +28,7 @@ function Header() {
         <nav className="navbar navbar-expand-lg navbar-light bg-transparent container">
           <div className="container-fluid">
             <a className="navbar-brand" href="#">
-              Tomas Jacobson
+              Maxi Rivas
             </a>
             <button
               className="navbar-toggler"
@@ -47,23 +47,34 @@ function Header() {
             >
               <ul className="navbar-nav ms-auto me-5 mb-2 mb-lg-0">
                 <li className="nav-item">
-                  <a className="nav-link" href="#About">
-                    About
+                  <a className="nav-link" href="#Hacerca de">
+                    Hacerca de
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#Best Works">
-                    Best Works
+                  <a className="nav-link" href="#Mejores Obras">
+                    Mejores Obras
                   </a>
                 </li>
+                <li className="nav-item">
+                  <a className="nav-link" href="#Servicio">
+                    Servicio
+                  </a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link" href="#Premios">
+                    Premios
+                  </a>
+                </li>
+                
                 <li className="nav-item">
                   <a className="nav-link" href="#Video">
                     Video
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link " href="#Contac">
-                    Contac
+                  <a className="nav-link " href="#Contacto">
+                    Contacto
                   </a>
                 </li>
               </ul>

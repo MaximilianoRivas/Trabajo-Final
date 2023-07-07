@@ -6,6 +6,7 @@
 }
 
 .heros{
+   
     display: block;
     padding: 2rem;
     text-align: left;
@@ -41,7 +42,7 @@
     padding: 20px;
     left: 180px;
     padding-right: 990px;
-    font-size: 3rem;
+    font-size: 2rem;
     width: 60%;
     
    
@@ -353,7 +354,7 @@ input{
     position: absolute;
     padding-top: 40px;
     padding-left: 150px;
-    font-size: 40px;
+    font-size: 30px;
 }
 .profesional1{
     font-size: 1rem;
@@ -513,7 +514,7 @@ input{
     
     position: absolute;
     left:338px;
-    top: 1969px;
+    top: 1943px;
 
 }
 
@@ -521,7 +522,7 @@ input{
 
     position: absolute;
     left:550px;
-    top: 1969px;
+    top: 1943px;
 }
 .casa{
     width: 380px;
@@ -623,17 +624,17 @@ input{
     display: flex;
     text-transform: uppercase;
     position: absolute;
-    top: 190px;
-    padding: 20px;
+    top: 270px;
+    padding:2px;
     font-size: 4rem;
-    width:70%;
+    width:50%;
     color:maroon;
     
 }
 .photograpy{
 position: absolute;
-top: 190px;
-left: 12px;
+top: 260px;
+left: 105px;
 color: maroon;
 
 }
@@ -660,7 +661,7 @@ color: maroon;
         
         position: absolute;
         left:330px;
-        top: 1995px;
+        top: 1972px;
     
     }
     
@@ -668,7 +669,7 @@ color: maroon;
     
         position: absolute;
         left:535px;
-        top:1995px;
+        top:1972px;
     }
     .casa{
         width: 400px;
@@ -685,27 +686,27 @@ color: maroon;
     }
     .play3d{
         position: absolute;
-        top: 2550px;
-        left: 500px;
+        top: 2500px;
+        left: 600px;
     }
     .played{
         position: absolute;
         left:200px;
-        top:2550px;
+        top:2500px;
     }
     
     
     .maxi1{
         position: absolute;
         left:230px;
-        top:1294px;
+        top:1265px;
         font-size: 1.5rem;
        
     }
     .oslo1{
         position:absolute;
         left:452px;
-        top:2630px;
+        top:2580px;
         
     }
     .yes{

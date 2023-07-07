@@ -119,7 +119,7 @@
 }
 .barra > .title > h3 {
   color: white;
-  font-size: 60px;
+  font-size: 50px;
   margin-bottom: 130px;
   margin-top: auto;
 }
@@ -132,8 +132,8 @@
   font-size: 2rem;
 }
 .nav-link{
-    font-size: 40px;
-    margin: 10px;
+    font-size: 25px;
+    margin: 20px;
     color: black;
 }
 

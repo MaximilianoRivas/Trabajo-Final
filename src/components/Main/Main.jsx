@@ -7,8 +7,8 @@ function Main(){
         <main>
             <section className="heros">
             <div className="eros">
-            <p className='photograpy'>photography</p>
-            <p className="toma">tomas jacobsen</p>
+            <p className='photograpy'>fotografía</p>
+            <p className="toma">Maxi Rivas</p>
         </div>
 
         </section>
@@ -16,14 +16,14 @@ function Main(){
         <section className="presentacion">
 
         <div className="profesional1">
-            <h1>profesional </h1>
-            <h1>Photographer</h1>
+            <h1>profesional</h1>
+            <h1>fotógrafo</h1>
         </div>
         
         <div className="profesional">
 
     <div className="parrafo"> 
-        <p>Hi! My name is Tomas JACOBSEN.I´m a profesional Photographer based in Norway. Photographing  Scandinavian nature is my passion and i want to share it with the world.</p>
+        <p>Hola, soy Maxi Rivas, fotógrafo profesional residente en Argentina. Fotografiar la naturaleza escandinava es mi pasión y quiero compartirla con el mundo.</p>
 
         </div>
         <div >
@@ -34,8 +34,8 @@ function Main(){
     
     </section>
 
-    <section id='Best Works' className="best">
-        <h2 className="work">Best Works</h2>
+    <section id='Hacerca de' className="best">
+        <h2 className="work">Hacerca de</h2>
 
         <div className="bestwork">
             <div>
@@ -46,20 +46,20 @@ function Main(){
         <div className="best1">
             
         <img className='aurora' src="public/aurora.jpg"/>
-        <p className="parrafo1">Nature</p>
+        <p className="parrafo1">Naturaleza</p>
         <p className="parrafito"> 01</p>
     </div>
 
     <div className="best2">
 
     <img className='montaña' src="public/casitamontaña.jpg"/>
-    <p className="parrafo1">Architecture </p>
+    <p className="parrafo1">Arquitectura </p>
     <p className="parrafitos">02</p>
     </div>
 
     <div className="best3">
     <img className='naranja' src="public/naranja.jpg" />
-    <p className="parrafo2">Travel</p>
+    <p className="parrafo2">Viaje</p>
     </div>
 
     </div>
@@ -95,22 +95,22 @@ function Main(){
 
 </section>
 
-<section id='Service' className="servi">
+<section id='Servicio' className="servi">
 
 <div className="precios">
-    <h1 className="h11">Service</h1>
+    <h1 className="h11">Servicio</h1>
     
     <div className="clases">
         <div className="clase1">
             
-        <p className="yes">Working as travel Photographer has taken me aroud the globe, shooting editorial assignments and working with some of the aleadingagencies.
-            I am always open to new collaborations and ready to previde professional quality services.
+        <p className="yes">Mi trabajo como fotógrafo de viajes me ha llevado por todo el mundo, realizando encargos editoriales y trabajando con algunas de las principales agencias.
+ Siempre estoy abierto a nuevas colaboraciones y dispuesto a ofrecer servicios profesionales de calidad.
         </p>
         
      <ul className="ah">
-        <li className="oh"> photography  250e </li>
-        <li className="oho">video 400e</li>
-        <li className="ohi" >production 600e</li>
+        <li className="oh"> Fotografia  $250 </li>
+        <li className="oho">video $400</li>
+        <li className="ohi" >producción $600</li>
      </ul>
        
     </div>
@@ -119,10 +119,10 @@ function Main(){
 </div>
 
 </section>
-<section id='Awards' className="award">
-    <h1 className='awar'>Awards</h1>
+<section id='Premios' className="award">
+    <h1 className='awar'>Premios</h1>
     <div className="award1">
-        <p className="textos1">Some of my photographs hace received high professional awards. I am very proud of these works and constantly move forward in search if new achievements </p>
+        <p className="textos1">Algunas de mis fotografías han recibido importantes premios profesionales. Estoy muy orgulloso de estos trabajos y avanzo constantemente en busca de nuevos logros. </p>
         <img className='personas2' src="public/personamontaña.jpg"/>
         <img className='personas2' src="public/montañagua.jpg"/>
         
@@ -130,7 +130,7 @@ function Main(){
 
 </section>
 
-<section id='Contact' className="lunes">
+<section id='Contacto' className="lunes">
 
     <h2 className="lunes1">contact</h2>
 

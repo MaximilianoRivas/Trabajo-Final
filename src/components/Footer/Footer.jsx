@@ -5,7 +5,7 @@ function Footer(){
 
         <footer className='finalidad'>
          <img className='like' src="public/likon.png"/>
-<h1 className="publick1">Photographer portfolio website.Study project. </h1>
+<h1 className="publick1">Sitio web de la cartera del fotógrafo.Proyecto de estudio. </h1>
 
 <div className="dale1">
 <img className='red' src="public/like.png"/>
