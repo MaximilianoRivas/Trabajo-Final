@@ -22,8 +22,9 @@ function Header() {
           </a>
         </div>
       </div>
+      
       <div className="barra">
-       
+      
         <nav className="navbar navbar-expand-lg navbar-light bg-transparent container">
           <div className="container-fluid">
             <a className="navbar-brand" href="#">
