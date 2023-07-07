@@ -1,0 +1,199 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.perfil {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+.principio {
+  width: 100%;
+}
+.dos {
+  background-image: none;
+}
+
+.inicio {
+  display: flex;
+  color: black;
+  font-size: 20px;
+  background-color: blanchedalmond;
+  width: 100%;
+  height: 72px;
+}
+
+.yi {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+.por {
+  padding: left 20px;
+}
+.por {
+  text-decoration: none;
+}
+.por,
+.pori{
+  text-decoration:none ;
+  color: black;
+  padding-left: 16px;
+  padding-top: 10px;
+}
+.ji {
+  position: absolute;
+  top: 40px;
+  padding-left: 65px;
+}
+
+.yi {
+  font-size: 1rem;
+  color: black;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.ji :hover {
+  text-decoration-line: underline;
+}
+
+.nav-link {
+  display: flex;
+}
+
+
+
+.tomass {
+  color: black;
+  font-size: 1rem;
+}
+
+.icono i {
+  margin-right: 15px;
+  padding-top: 20px;
+}
+.icono {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.mensaje {
+  width: 45px;
+  height: 40px;
+  padding-left: 25px;
+}
+
+.barra {
+  background-image: url(public/mont.jpg);
+  background-position: center;
+  background-size: cover;
+  color: black;
+  height: 89vh;
+  width: 100%;
+  position: relative;
+  align-items: start;
+  background-repeat: no-repeat;
+}
+.barras {
+  display: flex;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+.barra > .title {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  top: 50px;
+  left: 0;
+
+  justify-content: center;
+}
+.barra > .title > h3 {
+  color: white;
+  font-size: 60px;
+  margin-bottom: 130px;
+  margin-top: auto;
+}
+
+.barra > .title > h3 > span {
+  font-size: 25px;
+}
+.tomass {
+  color: coral;
+  font-size: 2rem;
+}
+.nav-link{
+    font-size: 40px;
+    margin: 10px;
+    color: black;
+}
+
+.navbar-toggler{
+border: none;
+background-color: darksalmon;
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .inicio {
+    font-size: 12px;
+  }
+  .tomass {
+    font-size: 24px;
+  }
+  .barra-vertical {
+    margin-top: 200px;
+  }
+  .eros {
+    display: inline-flex;
+  }
+  .toma {
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 150px;
+    font-size: 40px;
+  }
+  .profesional1 {
+    font-size: 1rem;
+  }
+  .container-fluid {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .inicio {
+    font-size: 12px;
+  }
+
+  .tomass {
+    font-size: 24px;
+  }
+
+  .eros {
+    display: inline-flex;
+  }
+  .toma {
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 150px;
+    font-size: 40px;
+  }
+  .profesional1 {
+    font-size: 1rem;
+  }
+  .container-fluid {
+    width: 100%;
+  }
+}
+
+  
+  

@@ -1,0 +1,714 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+
+}
+
+.heros{
+    display: block;
+    padding: 2rem;
+    text-align: left;
+    width: 100%;
+    
+    
+   
+    
+   }
+   .eros{
+    display: flex;
+    position: absolute;
+    top: 40rem; 
+    padding-left:170px;
+    font-size: 2rem;
+    color: white;
+    width: 97%;
+    
+    
+    
+   }
+   .photograpy{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    position: absolute;
+    left: 10px;
+   }
+
+   .toma{
+    display: flex;
+    text-transform: uppercase;
+    padding: 20px;
+    left: 180px;
+    padding-right: 990px;
+    font-size: 3rem;
+    width: 60%;
+    
+   
+    
+
+   }
+   .presentacion{
+    width: 100%;
+   }
+
+   .profesional{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin-left: 100px;
+
+   }
+   .profesional1{
+    
+    margin-left: 100px;
+    font-size: 1.5rem;
+    text-align: left;
+    text-transform: uppercase;
+   }
+   .parrafo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 65px;
+    font-size: 15px;
+    width: 51%;
+   }
+   .fotoco{
+    position: absolute;
+    top: 580px;
+    right: 0px;
+    left: 650px;
+    width: 380px;
+    height: 500px;
+    
+   }
+
+   .bestwork{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0,5rem;
+    margin-left: 4rem;
+    padding-top: 70px;
+    
+    
+   }
+   
+   .aurora,.montaña{
+    width: 380px;
+    height:300px;
+    
+   }
+   
+   .naranja{
+    width: 380px;
+    height: 300px;
+    
+    
+
+   }
+   .parrafo1,.parrafo2{
+    color: darkgrey;
+    
+   }
+   .parrafito{
+    color: darkgray;
+    position: absolute;
+    top: 1628px;
+    left: 540px;
+   }
+   .parrafitos{
+    color: darkgrey;
+    position: absolute;
+    top: 1628px;
+    left: 933px;
+   }
+   
+
+   .flecha{
+    color: darkgrey;
+    padding: 20px;
+    width: 90px;
+    height: 150px;
+
+}
+.work{
+    display: block;
+    margin: 2rem;
+    padding-top: 150px;
+    padding-left: 60px;
+    text-transform: uppercase;
+    width: 10%;
+
+
+}
+.video{
+    margin: 3rem;
+}
+
+.titulo{
+    text-transform: uppercase;
+    width: 20%;
+    padding: 3rem 0;
+    margin: 2rem;
+}
+.play3d{
+    
+    margin: 2rem;
+    width: 3rem;
+    position: absolute;
+    top: 2199px;
+    right: 0;
+    left: 1040px;
+    bottom: 100px;
+}
+.played{
+    margin: 2rem;
+    width: 3rem;
+    position: absolute;
+    top: 2199px;
+    left: 300px;
+    
+
+}
+
+.maxi1{
+    position: absolute;
+    right:230px;
+    top: 1116px;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color:white;
+}
+.oslo1{
+   
+    font-size: 1rem;
+    color:white;
+    position: absolute;
+    left: 810px;
+    top: 2270px;
+}
+.casa{
+    padding-left: 35px;
+    width: 500px;
+    height: 400px;
+}
+.centro{
+    
+    width: 650px;
+    height: 400px;
+}
+.h11{
+    padding-left: 5rem;
+    padding-top: 16px;
+    
+}
+
+
+.yes{
+
+    font-size: 13px;
+    padding-top: 160px;
+    padding-right: 74px;
+    width: 28%;
+}
+.clase1{
+    display: inline-flex;
+    justify-content: space-evenly;
+    
+}
+.clases{
+    
+    padding-bottom: 50px;
+}
+.ah,.oh,.ohi{
+    font-size: 1rem;
+    list-style: none;
+    text-transform: uppercase;
+    padding-top: 50px;
+    
+    
+}
+.oh{
+    border-bottom: 2px solid black;
+    word-spacing: 4vw;
+
+
+}
+.oho{
+    font-size: 1rem;
+    list-style: none;
+    text-transform: uppercase;
+    padding-top: 54px;
+    word-spacing: 9vw;
+    border-bottom: 2px solid black;
+}
+
+.ohi{
+    font-size: 1rem;
+    list-style: none;
+    text-transform: uppercase;
+    
+    word-spacing: 5vw;
+    border-bottom: 2px solid black;
+}
+.ah{
+    width: 18%;
+    
+}
+
+
+.award{
+    background-color: linen;
+    padding-left: 3rem;
+    padding-top: 40px;
+    width:95%;
+    
+}
+
+.award1{
+    display: flex;
+    justify-content: space-between;
+       
+}
+.awar{
+    padding-left: 1rem;
+}
+.textos1{
+    padding-top: 16rem;
+    padding-left: 7px;
+    width: 25%;
+}
+    
+.personas2{
+    width: 400px;
+    height: 400px;
+}
+.lunes1{
+    text-transform: uppercase;
+    padding: 1rem 0;
+    margin: 3rem ;
+   
+}
+
+.martes1{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    
+    
+    
+}
+.miercoles{
+    width: 30%;
+    height: 150px;
+    padding-top: 7px;
+    display: block;
+   
+}
+.hol11{
+    width: 30px;
+}
+
+form{
+    width: 240px;
+    height: 440px;
+    border-radius: 10px;  
+    
+}
+
+
+input{
+    width: 100%;
+    padding:0;
+    box-sizing: border-box;
+    outline: none;
+    resize: none;
+    border: 0;
+    border-bottom: 4px solid black;
+    margin: 2px 0 0 ;
+}
+
+    
+.enviar{
+    background-color:black;
+    color: white;
+    border-radius: 2px;
+    width: 80px;
+    height: 40px;
+    margin: 30px 0 0 ;
+}
+.redes{
+  padding: 2rem;
+  margin-top: -250px;
+  padding-left: 140px;
+    
+}
+.eros{
+    display: inline-flex;
+    
+    
+   }
+   .toma{
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 150px;
+    font-size: 40px;
+}
+.profesional1{
+    font-size: 1rem;
+}
+.foto{
+    display: flex;
+    position: absolute;
+    top:990px;
+    left: 465px;
+    width: 300px;
+    height: 500px;
+}
+.bestwork{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.work{
+    padding: 4.5rem;
+}
+
+.foto1{
+    height: 260px;
+    width: 200px;
+}
+.foto2{
+    width: 200px;
+    height: 260px;
+    
+}
+.foto3{
+    width: 210px;
+    height: 260px;
+}
+
+.parrafo3{
+    
+    position: absolute;
+    left:300px;
+    top: 2069px;
+
+}
+
+.parrafo4{
+
+    position: absolute;
+    left:500px;
+    top: 2068px;
+}
+.fotos{
+    width: 350px;
+    height: 300px;
+
+}
+.fotos1{
+    width: 350px;
+    height: 300;
+}
+.play1{
+    position: absolute;
+    top: 2590px;
+    left: 600px;
+}
+.play2{
+    position: absolute;
+    left:200px;
+    top:2590px;
+}
+
+
+.maxi{
+    position: absolute;
+    left:240px;
+    top:1330px;
+    font-size: 1.5rem;
+}
+.oslo{
+    position:absolute;
+    left:472px;
+    top:2730px;
+    
+}
+     
+
+.award1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.persona2{
+    width: 200px;
+    height: 220px;
+}
+.texto1{
+    padding-top: 12rem;
+    width: 28%;
+    font-size: 10px;
+}
+
+@media screen and  (min-width: 768px) and (max-width: 1023px) {
+  
+  .toma{
+    
+        display: flex;
+        text-transform: uppercase;
+        padding: 20px;
+        font-size: 4rem;
+        width:70%;
+        
+
+  }
+.fotoco{
+    display: flex;
+    position: absolute;
+    top: 980px;
+    left: 443px;
+    width: 300px;
+    height: 500px;
+}
+.bestwork{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.work{
+    padding: 4.5rem;
+}
+
+.aurora{
+    width: 200px;
+    height: 240px;
+}
+.montaña{
+    width: 200px;
+    height: 240px;
+    
+}
+.naranja{
+    width: 180px;
+    height: 240px;
+}
+.flecha{
+    width: 70px;
+}
+
+.parrafito{
+    
+    position: absolute;
+    left:338px;
+    top: 1969px;
+
+}
+
+.parrafitos{
+
+    position: absolute;
+    left:550px;
+    top: 1969px;
+}
+.casa{
+    width: 380px;
+    height: 400px;
+
+}
+.centro{
+    width: 380px;
+    height: 300;
+}
+.vide{
+    display: flex;
+    justify-content: space-around;
+}
+.play3d{
+    position: absolute;
+    top: 2530px;
+    left: 600px;
+}
+.played{
+    position: absolute;
+    left:200px;
+    top:2530px;
+}
+
+
+.maxi1{
+    position: absolute;
+    left:240px;
+    top:1280px;
+    font-size: 1.5rem;
+   
+}
+.oslo1{
+    position:absolute;
+    left:472px;
+    top:2590px;
+    
+}
+.yes{
+    padding-top: 100px;
+    width: 40%;
+}
+.ah{
+    
+    width: 30%;
+
+}
+
+.award1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.award{
+    width: 100%;
+   
+}
+
+.personas2{
+    
+    width: 220px;
+    height: 220px;
+}
+.textos1{
+    padding: 0;
+    padding-right: 10px;
+    padding-top: 7rem;
+    width: 40%;
+    font-size: 15px;
+}
+.redes{
+    padding-left: 15px;
+}
+}
+
+@media  screen  and (max-width: 767px){
+   .fotoco{
+    position: absolute;
+    left: 440px;
+    top:1000px;
+    width: 300px;
+    height: 400px;
+   }
+   .toma{
+        
+        display: flex;
+        position: absolute;
+        left: 250px;
+        text-transform: uppercase;
+        padding: 30px;
+        font-size: 5rem;
+        width:60%;
+   }
+
+    .aurora{
+        width: 180px;
+        height: 220px;
+    }
+    .montaña{
+        width: 180px;
+        height: 220px;
+        
+    }
+    .naranja{
+        width: 180px;
+        height: 220px;
+    }
+    .flecha{
+        width: 70px;
+    }
+    
+    .parrafito{
+        
+        position: absolute;
+        left:330px;
+        top: 1995px;
+    
+    }
+    
+    .parrafitos{
+    
+        position: absolute;
+        left:535px;
+        top:1995px;
+    }
+    .casa{
+        width: 400px;
+        height: 400px;
+    
+    }
+    .centro{
+        width: 330px;
+        height: 300;
+    }
+    .vide{
+        display: flex;
+        justify-content: space-around;
+    }
+    .play3d{
+        position: absolute;
+        top: 2550px;
+        left: 500px;
+    }
+    .played{
+        position: absolute;
+        left:200px;
+        top:2550px;
+    }
+    
+    
+    .maxi1{
+        position: absolute;
+        left:230px;
+        top:1294px;
+        font-size: 1.5rem;
+       
+    }
+    .oslo1{
+        position:absolute;
+        left:452px;
+        top:2630px;
+        
+    }
+    .yes{
+        padding-top: 100px;
+        width: 40%;
+    }
+    .ah{
+        
+        width: 30%;
+    
+    }
+    
+    .award1{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .award{
+        width: 100%;
+       
+    }
+    
+    .personas2{
+        
+        width: 200px;
+        height: 220px;
+    }
+    .textos1{
+        padding: 0;
+        padding-right: 10px;
+        padding-top: 7rem;
+        width: 40%;
+        font-size: 15px;
+    }
+    .redes{
+        padding-left: 15px;
+    }
+
+
+}

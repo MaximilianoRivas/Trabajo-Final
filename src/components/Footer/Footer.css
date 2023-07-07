@@ -1,0 +1,47 @@
+.fin{
+    background-color: black;
+    text-align: center;
+    padding: 2rem;
+    width: 95%;
+}
+.like{
+    width: 64px;
+    height: 64px;
+}
+.finalidad{
+    background-color: black;
+    text-align: center;
+    padding: 2rem;
+    width: 100%;
+
+    
+}
+.publick{
+    color: white;
+    font-size: 0.7rem;
+}
+.publick1{
+    color:white;
+    font-size: 2rem;
+    
+}
+
+.dale1{
+    display: flex;
+    justify-content: center;
+    color: dimgrey;
+    
+
+
+}
+
+.red{
+    width: 25px;
+    height: 25px;
+}
+@media screen and (max-width: 767px){
+
+
+
+
+}
