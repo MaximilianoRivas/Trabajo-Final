@@ -90,7 +90,7 @@
 }
 
 .barra {
-  background-image: url(public/mont.jpg);
+  /*background-image: url(public/mont.jpg);*/
   background-position: center;
   background-size: cover;
   color: black;
